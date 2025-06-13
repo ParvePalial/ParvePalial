@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=435&lines=Eq7UtWIuemNB/2ANLy0wYZRXlAQrt1AmUsjnPk74z+U5owo4wYSX+fNmXbjheToKgJk2jkZXv+RPVOE59QKAEJ6z/A7ngkqv8co+Cq6byjBLqf6ZnBIMQSZKN+20iINfJEnOqZDfj39U2phXBRgN8CCfRaeqGPjV/B/2tlyr6lUkqJc0NL2FMKJUn1wclTeT;&color=00FF00" alt="Typing SVG" /
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=10&center=true&vCenter=true&width=435&lines=Eq7UtWIuemNB/2ANLy0wYZRXlAQrt1AmUsjnPk74z+U5owo4wYSX+fNmXbjheToKgJk2jkZXv+RPVOE59QKAEJ6z/A7ngkqv8co+Cq6byjBLqf6ZnBIMQSZKN+20iINfJEnOqZDfj39U2phXBRgN8CCfRaeqGPjV/B/2tlyr6lUkqJc0NL2FMKJUn1wclTeT;&color=00FF00" alt="Typing SVG" /
 
 
 ---
