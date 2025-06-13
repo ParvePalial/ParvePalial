@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ParvePalial&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParvePalial&theme=radical" width="47%"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🔥 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ParvePalial&theme=github-compact" />
 </p>
 
 ---
