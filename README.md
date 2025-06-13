@@ -1,9 +1,8 @@
 <!-- Header -->
-<h1 align="center">Welcome Here</h1>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Matrix+has+You!;Open+Source+%F0%9F%92%BB+and+Clean+Code+%E2%9C%A8&color=00FF00" alt="Typing SVG" /
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;&color=00FF00" alt="Typing SVG" /
 
 
 ---
