@@ -1,22 +1,13 @@
 <!-- Header -->
-<h1 align="center">Parve Palial Here</h1>
-<h3 align="center">Programmer | Rust Developer | Web Developer</h3>
+<h1 align="center">Welcome Here</h1>
+<h3 align="center">Programmer | Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff.;Open+Source+%F0%9F%92%BB+and+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Matrix has You!;Open+Source+%F0%9F%92%BB+and+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🔭 I’m currently working on: `ProjectName`, a [brief 1-liner about the project]
-- 🌱 I’m currently learning: `AI`, `Security`, `Full-Stack Development`
-- 💬 Ask me about: Anything related to `Node.js`, `Python`, `Next.js`, `Linux`, etc.
-- 📫 How to reach me: [youremail@example.com](mailto:youremail@example.com) or [LinkedIn](https://linkedin.com/in/your-profile)
-- ⚡ Fun fact: I started coding by [a short fun story]
-
----
 
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/GCC-FF6C00?style=for-the-badge&logo=gnu&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 
