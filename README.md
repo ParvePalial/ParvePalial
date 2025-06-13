@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">💻 Passionate Developer | 🚀 Tech Explorer | 🎨 UI Enthusiast</h3>
+<h1 align="center">Parve Palial Here</h1>
+<h3 align="center">Programmer | Rust Developer | Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff.;Open+Source+%F0%9F%92%BB+and+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
