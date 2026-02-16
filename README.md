@@ -7,6 +7,8 @@
 
 ---
 
+<h1> Tech Stack </h1>
+
 
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/GCC-FF6C00?style=for-the-badge&logo=gnu&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 
@@ -21,3 +23,8 @@
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Zsh-ffffff?style=for-the-badge&logo=gnubash&logoColor=black"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> </p>
 
 <p> <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> <img src="https://img.shields.io/badge/Kitty-20C997?style=for-the-badge&logo=terminal&logoColor=white"/> <img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=chromium&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </p>
+
+
+<br>
+<h1> Contact </h1>
+<p>parvepalial.github.io</p>
