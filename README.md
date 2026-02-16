@@ -27,4 +27,4 @@
 
 <br>
 <h1> Contact </h1>
-<p>parvepalial.github.io</p>
+<a href="parvepalial.github.io">parvepalial.github.io</a>
