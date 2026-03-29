@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=10&center=true&vCenter=true&width=435&lines=Eq7UtWIuemNB/2ANLy0wYZRXlAQrt1AmUsjnPk74z+U5owo4wYSX+fNmXbjheToKgJk2jkZXv+RPVOE59QKAEJ6z/A7ngkqv8co+Cq6byjBLqf6ZnBIMQSZKN+20iINfJEnOqZDfj39U2phXBRgN8CCfRaeqGPjV/B/2tlyr6lUkqJc0NL2FMKJUn1wclTeT;&color=00FF00" alt="Typing SVG" /
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=10&center=true&vCenter=true&width=435&lines=Eq7UtWIuemNB/2ANLy0wYZRXlAQrt1AmUsjnPk74z+U5owo4wYSX+fNmXbjheToKgJk2jkZXv+RPVOE59QKAEJ6z/A7ngkqv8co+Cq6byjBLqf6ZnBIMQSZKN+20iINfJEnOqZDfj39U2phXBRgN8CCfRaeqGPjV/B/2tlyr6lUkqJc0NL2FMKJUn1wclTeT;&color=00FF00" alt="Typing SVG" />
+</p>
 # Parve Palial
 **Systems Engineer & Quantitative Researcher | B.Tech Data Science @ NIT Jalandhar**
 
@@ -17,8 +17,8 @@ I build high-performance infrastructure and ultra-low latency systems. My focus 
 
 ### Reach Out
 I am currently exploring Summer and Off-Cycle roles in Quantitative Development, Core Engineering, and AI Infrastructure. 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** your.email@example.com
+* **LinkedIn:** [linkedin.com/in/parvepalial](https://linkedin.com/in/parvepalial)
+* **Email:** parve.palial@gmail.com
 
 ---
 
